@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    width: 100%;
+    background-color: white;
+}
+
+.container{
+    background-color: cornflowerblue;
+    border: dashed 2px coral;
+    width: 20rem;
+    height: 20rem;
+}
